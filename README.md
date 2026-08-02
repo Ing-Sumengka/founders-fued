@@ -2,7 +2,7 @@
 
 A single-file, offline survey game show scoreboard for live founder events. Built to run on a projector laptop with no installation, no internet and no dependencies.
 
-**Play it:** [https://YOUR-USERNAME.github.io/unhu-founders-feud/](https://ing-sumengka.github.io/unhu-founders-feud/)
+**Play it:** https://ing-sumengka.github.io/unhu-founders-feud/
 
 ## What it does
 
