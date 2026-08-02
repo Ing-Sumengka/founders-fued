@@ -1,4 +1,4 @@
-# Unhu Founders Feud
+# Founders Feud
 
 A single-file, offline survey game show scoreboard for live founder events. Built to run on a projector laptop with no installation, no internet and no dependencies.
 
